@@ -3,6 +3,8 @@ EJEMPLOS EN PHP
 Para probar los codigos , solo tiene que copiar las carpetas en un servidor Web
 Puede usar el servidor web Apache y los intérpretes para lenguajes de script PHP
 
+XAMPP es un paquete de software libre, que consiste principalmente en el sistema de gestión de bases de datos MySQL, el servidor web Apache
+
 NOTA:" Los sistemas complejos es un conjunto de cosas simples "
 
 00 - AJAX
